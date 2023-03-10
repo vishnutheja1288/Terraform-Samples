@@ -1,1 +1,1 @@
-# test-project
+# terraform-project-reference
